@@ -1,6 +1,6 @@
 # TCC desenvolvido para Engenharia de Computação UNIVESP 2018.2
 
-## <a href= "">Apresentação youtube</a>
+## <a href= ""></a>
 
 ### Alunos: 
 
@@ -64,7 +64,7 @@ Para a devida compilação e transferência dos códigos de programação para o
 
 #### Layout circuito
 
-![layout circuito](C:\Users\User\Downloads\layout circuito.jpeg)
+<img src= "layout circuito.jpeg">)
 
 
 
@@ -102,7 +102,7 @@ Para cada *widget* adicionado, é necessário configurar seus parâmetros, tais 
 
 ### Fluxo de dados/ Automations
 
-![fluxo de dados](C:\Users\User\Downloads\fluxo de dados.jpeg)
+<img src= "fluxo de dados.jpeg">
 
 
 
@@ -116,7 +116,7 @@ Foi necessário, ainda, implementar *automations* (automações), a fim de notif
 
 #### Protótipo final em funcionamento
 
-![prototipo final](C:\Users\User\Downloads\prototipo final.jpeg)
+<img src= "prototipo final.jpeg">
 
 
 
@@ -124,7 +124,7 @@ Foi necessário, ainda, implementar *automations* (automações), a fim de notif
 
 Notificações recebidas pelo app Blynk
 
-![monoxido de carbono gas inflamavel](C:\Users\User\Downloads\monoxido de carbono gas inflamavel.jpeg)
+<img src= "monoxido de carbono gas inflamavel.jpeg">
 
 
 
@@ -132,13 +132,13 @@ Notificações recebidas pelo app Blynk
 
 Notificações recebidas pelo app blynk
 
-![presença detectada fogo detectado](C:\Users\User\Downloads\presença detectada fogo detectado.jpeg)
+<img src= "presença detectada fogo detectado.jpeg">
 
  
 
 #### Tela principal App Blynk e notificações de alerta por email
 
-![app](C:\Users\User\Downloads\app.jpeg)
+<img src= "app.jpeg">
 
 
 
